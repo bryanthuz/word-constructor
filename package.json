@@ -1,0 +1,25 @@
+{
+  "name": "word-constructor",
+  "version": "1.0.0",
+  "description": "Advanced JavaScript Assignment: Constructor Hangman (Word Guess) that utilizes constructors, the NPM Inquirer.js package, objects, and Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bryanthuz/word-constructor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bryanthuz/word-constructor/issues"
+  },
+  "homepage": "https://github.com/bryanthuz/word-constructor#readme",
+  "dependencies": {
+    "inquirer": "^6.4.1",
+    "objects": "^0.3.0",
+    "prompt": "^1.0.0"
+  },
+  "devDependencies": {}
+}
